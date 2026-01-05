@@ -1,3 +1,9 @@
+![Dashboard Preview](screenshots/Screenshot (213).png)
+
+
+
+
+
 # Sales Performance Analysis Dashboard
 
 ## 📌 Project Overview
@@ -31,5 +37,6 @@ Screenshots of the final dashboard are available in the `screenshots` folder.
 
 ## 📎 Project Link
 https://github.com/SATWIK-0056/Sales-Performance-Analysis
+
 
 
